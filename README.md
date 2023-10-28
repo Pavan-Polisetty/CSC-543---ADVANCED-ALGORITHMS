@@ -1,1 +1,1 @@
-# CSC-543 ADVANCED-ALGORITHMS UNIT 1
+The non-zero elements of the input matrix are extracted by this code, which then stores the row indices, column indices, and values of those items in different arrays. The sparse matrix's compressed version. 
